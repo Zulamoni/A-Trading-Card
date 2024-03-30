@@ -1,0 +1,26 @@
+h1{
+    color: blueviolet;
+}
+body{
+    background: burlywood;
+}
+.piccardctn{
+    text-align: center;
+    color: azure;
+    /* background-color: black; */
+}
+.piccard{
+    text-align: center;
+    /* background-color: black; */
+    width: 80%;
+    border: 1px solid;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+}
+.piccard{
+    border: 2px solid blueviolet;
+    max-width: 500px;
+    margin: 0 auto;
+}
